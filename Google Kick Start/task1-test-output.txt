@@ -1,0 +1,12 @@
+Case #1: 1000
+Case #1: 1050
+Case #2: 1050
+Case #3: 1100
+Case #5: 1000
+Case #5: 1000
+Case #5: 1000
+Case #5: 1000
+Case #5: 900
+Case #6: 1150
+Case #7: 10000
+Case #8: 10000

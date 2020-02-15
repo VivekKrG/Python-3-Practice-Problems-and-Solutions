@@ -1,0 +1,65 @@
+8
+
+1000
+3
+Shoyu 800
+Miso 850
+Tonkotsu 900
+2
+Egg 100
+Sprout 150
+
+1000
+2
+Shoyu 850
+Miso 900
+2
+Rice 200
+Chickens 250
+
+1000
+2
+Superior 1100
+Original 900
+1
+Veggies 200
+
+1000
+4
+Shoyu 800
+Miso 800
+Shio 800
+Tonkotsu 800
+1
+Egg 100
+
+1000
+4
+Shoyu 700
+Miso 700
+Shio 700
+Tonkotsu 700
+3
+Egg 100
+Sprout 100
+ExtraPork 100
+
+1000
+2
+Miso 700
+Shio 750
+3
+Butter 100
+Gyoza 350
+FriedRice 650
+
+1000
+1
+MagicalFlavor 10000
+0
+
+10000
+1
+MagicalFlavor 10000
+1
+MagicalOption 10000

@@ -1,0 +1,554 @@
+43
+
+1000
+3
+Shoyu 800
+Miso 850
+Tonkotsu 900
+2
+Egg 100
+Sprout 150
+
+1000
+2
+Shoyu 850
+Miso 900
+2
+Rice 200
+Chickens 250
+
+1000
+2
+Superior 1100
+Original 900
+1
+Veggies 200
+
+1000
+4
+Shoyu 800
+Miso 800
+Shio 800
+Tonkotsu 800
+1
+Egg 100
+
+1000
+4
+Shoyu 700
+Miso 700
+Shio 700
+Tonkotsu 700
+3
+Egg 100
+Sprout 100
+ExtraPork 100
+
+1000
+2
+Miso 700
+Shio 750
+3
+Butter 100
+Gyoza 350
+FriedRice 650
+
+1000
+1
+MagicalFlavor 10000
+0
+
+10000
+1
+MagicalFlavor 10000
+1
+MagicalOption 10000
+
+3943
+1
+Mam 9106
+0
+
+4679
+1
+Lwprhqi 7572
+1
+Dcmahtbd 10000
+
+3559
+1
+Msurj 7360
+2
+Kiydfpn 3368
+Baaxx 6631
+
+2473
+1
+Jhcrrnkr 4360
+3
+Dfb 2383
+E 1161
+En 6455
+
+1638
+1
+Myohoqou 116
+4
+Xhyertf 2407
+Stlneg 187
+W 3479
+Oyopkbk 3924
+
+2596
+2
+Qdsehvc 8314
+Ehghvdel 8165
+0
+
+96
+2
+Oenvvj 5964
+Amlaaf 3687
+1
+Ypybk 10000
+
+2733
+2
+Vxlgc 1424
+Ljjqq 615
+2
+Vg 2219
+Qe 7780
+
+4559
+2
+Wrewyy 6562
+Eli 8787
+3
+Zec 4018
+Uo 993
+Ajbepq 4987
+
+7562
+2
+Rbs 3537
+Qombzxr 6197
+4
+Vczyuyhk 3372
+Pnxyc 3678
+Onixdbn 2163
+Wzotzl 785
+
+1841
+5
+Whte 613
+Kmk 9397
+Xe 2263
+Dxrpeydq 4292
+Cunjw 7808
+3
+Kkw 465
+Tisjg 5546
+Sevuzs 3988
+
+8905
+5
+Ytlg 836
+Rnnmk 4743
+Yl 7133
+S 5955
+Vy 6014
+3
+Oohcgkyx 3318
+Qz 2373
+Bkrvr 4308
+
+5702
+5
+Grev 8322
+Y 3258
+Mkbkpitm 4630
+Uuaftmua 9713
+A 9772
+3
+Rupcmas 2312
+Bzek 3214
+P 4472
+
+6304
+5
+Xrag 4759
+Ynysllg 8167
+Djb 3206
+Bz 2607
+Piswju 8161
+4
+Zlfraci 4649
+Yy 666
+Gwgq 3126
+La 1557
+
+9650
+5
+Nbs 3392
+Tciw 3669
+Esxt 3877
+Da 9417
+Dggh 3820
+5
+Efr 303
+Gonuvjlc 1901
+Hyh 2501
+Qsng 2409
+Jyuocp 2883
+
+8087
+8
+Pia 8103
+Zmeadav 8847
+Wxczo 7852
+Ejhks 3691
+Kje 5062
+Ohuwkjjp 6938
+Etpqv 2410
+Uz 3056
+8
+Qwbk 1372
+Ahfqnl 855
+Xp 1870
+Mf 1412
+Ihklyng 2119
+Sp 4
+Wnwhh 2244
+Vrypplw 120
+
+9866
+9
+Vfknymww 4207
+Gykkoi 1689
+Nyxeo 8403
+Nzv 1400
+Ynladu 3993
+Ilq 8926
+Bdd 8949
+Zrwrkzj 1994
+Smllr 7713
+9
+Ajcywhq 2
+Tsrdugnh 1
+Adjzqm 1060
+Pmafaec 2085
+Bpvffxe 1307
+Btqzyjbc 1413
+Lmlpfp 762
+Ry 2142
+Aza 1223
+
+1491
+9
+Bnwaq 4231
+Bvneipt 6887
+Zmbo 6778
+Cuvxmg 4623
+Tmeqoz 8487
+Gerbuql 1662
+Tkgny 6647
+Rc 7999
+Zpx 3341
+6
+Vpqekjuc 680
+Qnqtm 261
+I 1630
+Aelrj 3156
+Pmdoawrk 1925
+Ajprcksr 2344
+
+2117
+7
+Smb 7942
+Nuv 4916
+Ui 9882
+Djbyh 6547
+Owq 6335
+D 6921
+Gjydw 1423
+6
+R 2765
+Wpgbmddt 3281
+Twira 623
+Bdkbb 1755
+Kgf 506
+Rwjeqm 1067
+
+4827
+6
+Djiljzsi 462
+Rnjexlt 6627
+N 3203
+Ihehyi 4162
+Rtbkx 9315
+Dsxtn 8613
+7
+Errcior 1364
+Un 2302
+Vwt 31
+Nrfrsi 1986
+Q 428
+O 1862
+Lcohv 2023
+
+8987
+1
+Oz 5788
+9
+Nkrschf 79
+Mhmgvw 485
+Fhgfbo 1431
+Izhndojv 1184
+Os 1597
+Femujwx 1203
+Oqajeqxa 1366
+Kvaso 1279
+Onkpzoaj 1370
+
+9271
+3
+M 6126
+Xnrh 5297
+Rr 106
+7
+Ojljfad 764
+Kccq 3233
+Qqjea 709
+Zfuwfr 1171
+Onxdm 3237
+Gbs 853
+Ygoellcf 28
+
+4775
+1
+Hyll 9720
+8
+Vmhak 976
+Aruqk 1208
+Fhctu 372
+F 611
+Ipowig 2141
+Jbylmf 753
+Ktmzt 2067
+Bkdo 1867
+
+2169
+2
+Fqa 7985
+Kslcdgdy 2584
+7
+Dp 1143
+Qsusih 1314
+Jy 873
+K 1982
+Clk 1974
+Wqspki 1764
+Jropkxp 946
+
+8066
+2
+Kjg 3916
+Jsdthji 8702
+8
+Pan 2196
+Rxhmuhn 1014
+Kj 1630
+Pz 774
+Bwitxse 1467
+Swkq 884
+Xesfuyv 1037
+Pvmd 994
+
+535
+7
+Ql 3675
+Yd 8351
+Gsyz 697
+B 7643
+Vdk 2018
+Qlxvur 9657
+Ovrqksri 7711
+3
+Ip 3596
+Gqwn 322
+Nzqk 6080
+
+1162
+8
+Penrhojz 527
+Feril 7351
+Mrb 9374
+Ksfnfjlf 8700
+Kdry 7886
+Vlyw 4383
+Saguzujq 945
+Vqgwx 9923
+1
+Ssds 10000
+
+4930
+7
+Kiug 3861
+Pmcjn 1084
+Va 8770
+Tt 6085
+Bnuvkrp 6403
+Lmjag 303
+Azyv 152
+3
+Xtjdwm 6151
+Jday 3688
+X 159
+
+439
+8
+Kblasg 2401
+Tknazdp 857
+G 3845
+Edahki 1774
+Kzyyn 4679
+Rx 1265
+Wfpg 6160
+Jyisvplc 2203
+1
+Jls 10000
+
+9672
+9
+Xad 3110
+Bhwqgpjg 434
+Vqxiy 1186
+Z 2819
+Euh 719
+Lmmx 7943
+Jbc 1019
+Uyikkafa 5505
+Gfbmxqe 5180
+1
+Vftc 10000
+
+1905
+10
+Qdlvaz 9297
+U 2052
+Pa 6782
+Kmm 204
+Ex 3821
+Hrtcvzb 782
+Uwoipkn 7268
+Jopmqfuk 9189
+Fm 7773
+Efz 8964
+10
+Qy 1100
+Kbhcdy 1277
+V 1215
+Jl 537
+Lojn 1100
+Vei 853
+Zpz 265
+Jkdifw 1028
+L 1306
+Sar 1314
+
+7784
+10
+Qajzd 3346
+Noa 7489
+Wkaxb 6485
+Qkktzz 3769
+Gbh 5407
+Wjcotshj 8913
+Gwpnvyv 3197
+Qyzchxv 5349
+Vtwqh 470
+Xt 4466
+10
+Hjd 993
+Ffdgfv 1892
+Qnupy 1265
+Agomjq 1235
+Vknsvreb 37
+Mwcertuh 1708
+On 1310
+Jjrifn 1306
+Cc 226
+Qgpfn 22
+
+4708
+10
+Ahhqy 4084
+Xwcp 1435
+Llpcjqb 1637
+Msgdfr 1523
+Tklh 6012
+Qhyo 4760
+Wbowk 659
+Puwqqzmb 2749
+Gw 8856
+Itcaejq 1348
+10
+Ctwk 1420
+Gfqtk 842
+Tga 536
+Msx 1274
+Dklx 809
+Ap 1531
+Ckm 1447
+Fh 41
+Oqzox 712
+Mquuwmkb 1384
+
+394
+10
+Fa 2868
+Byam 2936
+Xhy 6874
+Tjjtbb 494
+Mqtfovl 5178
+Vrgph 8449
+Ts 605
+Eyasgall 4014
+Lgddzbsv 3310
+Tabfiw 723
+10
+Mpuqurk 147
+Ejdj 1073
+Hfmi 1236
+Ugr 1509
+Tqqxxl 762
+Valb 1104
+Spbx 168
+Chtvfnda 2209
+Ph 1673
+Bgto 114
+
+1059
+10
+Ufip 5583
+Vbycwt 4953
+Wxwfyvr 8955
+Udrptxp 1594
+Yfratzq 3559
+Zwzvp 8811
+Afnd 3973
+Ayeib 6092
+Oq 1508
+Bchpswzp 2509
+10
+Gvgceg 923
+Xqlcu 1128
+Thmodsbj 361
+Gcd 590
+J 275
+Bpv 1743
+Xsvgxy 1786
+Vumhs 170
+Qotqtvtu 1756
+Lt 1263
