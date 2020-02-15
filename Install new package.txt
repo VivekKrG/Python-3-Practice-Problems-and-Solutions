@@ -1,0 +1,3 @@
+adding a new library
+1. open cmd (Command Prompt)
+2. python -m pip install package_name
